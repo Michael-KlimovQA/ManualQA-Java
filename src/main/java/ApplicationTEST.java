@@ -1,0 +1,2 @@
+public class ApplicationTEST {
+}
